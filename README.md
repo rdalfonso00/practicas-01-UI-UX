@@ -19,5 +19,5 @@
   <img src="./images/buyerpersona.png" alt="buyerpersona" height="350">
   - Público Objetivo
   <img src="./images/publicoObjetivo.jpg" alt="buyerpersona" height="350">
-  - Wireframe del sistema: https://www.figma.com/file/PRWyjRQqMVzmOlZ82xHgnu/Abogabot?node-id=0%3A1
+  - Wireframe del sistema: https://www.figma.com/file/PRWyjRQqMVzmOlZ82xHgnu/Abogabot?node-id=0%3A1<br>
   - UI del sistema: https://www.figma.com/file/iUCNE0Fe788CkOgpZEN39P/Abogabot-UI?node-id=0%3A1
